@@ -1,0 +1,809 @@
+{
+	"lessons": [
+	{
+		"lesson": 1,
+		"title": "Minna no Nihongo - Lesson 1 Vocabulary",
+		"vocabulary": 
+		[
+			{
+			  "japanese": "わたし",
+			  "burmese": "ကျွန်တော် / ကျွန်မ",
+			  "english": "I / me"
+			},
+			{
+			  "japanese": "あなた",
+			  "burmese": "ခင်ဗျာ့ / မင်း / နင်",
+			  "english": "you"
+			},
+			{
+			  "japanese": "あの人",
+			  "burmese": "ဟိုလူ (ရိုးရိုး)",
+			  "english": "that person"
+			},
+			{
+			  "japanese": "あの方",
+			  "burmese": "ဟိုလူ (ယဉ်ကျေး)",
+			  "english": "that person (polite)"
+			},
+			{
+			  "japanese": "～さん",
+			  "burmese": "နာမည်နောက်တွင်ထည့်သော ယဉ်ကျေးအသုံး",
+			  "english": "Mr./Ms. (polite suffix)"
+			},
+			{
+			  "japanese": "～ちゃん",
+			  "burmese": "ကလေးများအတွက်အသုံး",
+			  "english": "suffix for children"
+			},
+			{
+			  "japanese": "～じん",
+			  "burmese": "--လူမျိုး",
+			  "english": "nationality"
+			},
+			{
+			  "japanese": "アメリカじん",
+			  "burmese": "အမေရိကန်လူမျိုး",
+			  "english": "American"
+			},
+			{
+			  "japanese": "先生",
+			  "burmese": "ဆရာ / ဆရာမ",
+			  "english": "teacher"
+			},
+			{
+			  "japanese": "教師",
+			  "burmese": "ဆရာ (အလုပ်အကိုင်)",
+			  "english": "instructor"
+			},
+			{
+			  "japanese": "学生",
+			  "burmese": "ကျောင်းသား / ကျောင်းသူ",
+			  "english": "student"
+			},
+			{
+			  "japanese": "会社員",
+			  "burmese": "ကုမ္ပဏီဝန်ထမ်း",
+			  "english": "company employee"
+			},
+			{
+			  "japanese": "社員",
+			  "burmese": "ဝန်ထမ်း",
+			  "english": "employee"
+			},
+			{
+			  "japanese": "銀行員",
+			  "burmese": "ဘဏ်ဝန်ထမ်း",
+			  "english": "bank employee"
+			},
+			{
+			  "japanese": "医者",
+			  "burmese": "ဆရာဝန်",
+			  "english": "doctor"
+			},
+			{
+			  "japanese": "研究者",
+			  "burmese": "သုတေသနပြုသူ",
+			  "english": "researcher"
+			},
+			{
+			  "japanese": "大学",
+			  "burmese": "တက္ကသိုလ်",
+			  "english": "university"
+			},
+			{
+			  "japanese": "病院",
+			  "burmese": "ဆေးရုံ",
+			  "english": "hospital"
+			},
+			{
+			  "japanese": "だれ",
+			  "burmese": "ဘယ်သူ (ရိုးရိုး)",
+			  "english": "who"
+			},
+			{
+			  "japanese": "どなた",
+			  "burmese": "ဘယ်သူ (ယဉ်ကျေး)",
+			  "english": "who (polite)"
+			},
+			{
+			  "japanese": "～歳",
+			  "burmese": "--နှစ် (အသက်)",
+			  "english": "years old"
+			},
+			{
+			  "japanese": "何歳 / おいくつ",
+			  "burmese": "အသက်ဘယ်နှစ်လဲ",
+			  "english": "how old"
+			},
+			{
+			  "japanese": "はい",
+			  "burmese": "ဟုတ်ကဲ့",
+			  "english": "yes"
+			},
+			{
+			  "japanese": "いいえ",
+			  "burmese": "ဟင့်အင်း",
+			  "english": "no"
+			},
+			{
+			  "japanese": "初めまして",
+			  "burmese": "တွေ့ရတာဝမ်းသာပါတယ်",
+			  "english": "Nice to meet you"
+			},
+			{
+			  "japanese": "～から来ました",
+			  "burmese": "--ကနေ လာပါတယ်",
+			  "english": "I come from ~"
+			},
+			{
+			  "japanese": "どうぞよろしくお願いします",
+			  "burmese": "မိတ်ဆွေအဖြစ် ကူညီပါ",
+			  "english": "Nice to meet you / Please take care of me"
+			},
+			{
+			  "japanese": "失礼ですが",
+			  "burmese": "ခွင့်ပြုပါ",
+			  "english": "Excuse me"
+			},
+			{
+			  "japanese": "お名前は？",
+			  "burmese": "နာမည်ဘယ်လိုခေါ်ပါသလဲ",
+			  "english": "What is your name?"
+			},
+			{
+			  "japanese": "こちらは～さんです",
+			  "burmese": "ဒီသူက --- ဖြစ်ပါတယ်",
+			  "english": "This is ~"
+			}
+		]
+	},
+	{
+		{
+		  "lesson": 2,
+		  "title": "Minna no Nihongo - Lesson 2 Vocabulary",
+		  "vocabulary": [
+			{
+			  "japanese": "これ",
+			  "burmese": "ဒီဟာ",
+			  "english": "this"
+			},
+			{
+			  "japanese": "それ",
+			  "burmese": "ဟိုဟာ",
+			  "english": "that (near listener)"
+			},
+			{
+			  "japanese": "あれ",
+			  "burmese": "ဟို့ကဟာ",
+			  "english": "that (over there)"
+			},
+			{
+			  "japanese": "この～",
+			  "burmese": "ဒီ--",
+			  "english": "this ~"
+			},
+			{
+			  "japanese": "その～",
+			  "burmese": "ဟို--",
+			  "english": "that ~ (near listener)"
+			},
+			{
+			  "japanese": "あの～",
+			  "burmese": "ဟို့--",
+			  "english": "that ~ (over there)"
+			},
+			{
+			  "japanese": "本",
+			  "burmese": "စာအုပ်",
+			  "english": "book"
+			},
+			{
+			  "japanese": "辞書",
+			  "burmese": "အဘိဓာန်",
+			  "english": "dictionary"
+			},
+			{
+			  "japanese": "雑誌",
+			  "burmese": "မဂ္ဂဇင်း",
+			  "english": "magazine"
+			},
+			{
+			  "japanese": "新聞",
+			  "burmese": "သတင်းစာ",
+			  "english": "newspaper"
+			},
+			{
+			  "japanese": "ノート",
+			  "burmese": "မှတ်စုစာအုပ်",
+			  "english": "notebook"
+			},
+			{
+			  "japanese": "手帳",
+			  "burmese": "နေ့စဉ်မှတ်တမ်း",
+			  "english": "planner / notebook"
+			},
+			{
+			  "japanese": "名刺",
+			  "burmese": "လိပ်စာကတ်",
+			  "english": "business card"
+			},
+			{
+			  "japanese": "カード",
+			  "burmese": "ကတ်",
+			  "english": "card"
+			},
+			{
+			  "japanese": "鉛筆",
+			  "burmese": "ခဲတံ",
+			  "english": "pencil"
+			},
+			{
+			  "japanese": "ボールペン",
+			  "burmese": "ဘောပင်",
+			  "english": "ballpoint pen"
+			},
+			{
+			  "japanese": "シャープペンシル",
+			  "burmese": "ဘောပင်ခဲတံ",
+			  "english": "mechanical pencil"
+			},
+			{
+			  "japanese": "かぎ",
+			  "burmese": "သော့",
+			  "english": "key"
+			},
+			{
+			  "japanese": "時計",
+			  "burmese": "နာရီ",
+			  "english": "watch / clock"
+			},
+			{
+			  "japanese": "傘",
+			  "burmese": "ထီး",
+			  "english": "umbrella"
+			},
+			{
+			  "japanese": "かばん",
+			  "burmese": "အိတ်",
+			  "english": "bag"
+			},
+			{
+			  "japanese": "CD",
+			  "burmese": "စီဒီ",
+			  "english": "CD"
+			},
+			{
+			  "japanese": "テレビ",
+			  "burmese": "တီဗီ",
+			  "english": "television"
+			},
+			{
+			  "japanese": "ラジオ",
+			  "burmese": "ရေဒီယို",
+			  "english": "radio"
+			},
+			{
+			  "japanese": "カメラ",
+			  "burmese": "ကင်မရာ",
+			  "english": "camera"
+			},
+			{
+			  "japanese": "コンピュータ",
+			  "burmese": "ကွန်ပျူတာ",
+			  "english": "computer"
+			},
+			{
+			  "japanese": "車",
+			  "burmese": "ကား",
+			  "english": "car"
+			},
+			{
+			  "japanese": "机",
+			  "burmese": "စားပွဲ",
+			  "english": "desk"
+			},
+			{
+			  "japanese": "椅子",
+			  "burmese": "ထိုင်ခုံ",
+			  "english": "chair"
+			},
+			{
+			  "japanese": "チョコレート",
+			  "burmese": "ချောကလက်",
+			  "english": "chocolate"
+			},
+			{
+			  "japanese": "コーヒー",
+			  "burmese": "ကော်ဖီ",
+			  "english": "coffee"
+			},
+			{
+			  "japanese": "[お]みやげ",
+			  "burmese": "လက်ဆောင်",
+			  "english": "souvenir"
+			},
+			{
+			  "japanese": "英語",
+			  "burmese": "အင်္ဂလိပ်စာ",
+			  "english": "English language"
+			},
+			{
+			  "japanese": "あのう",
+			  "burmese": "ဟိုလေ--",
+			  "english": "well... (hesitation)"
+			},
+			{
+			  "japanese": "えっ",
+			  "burmese": "ဟယ်",
+			  "english": "what? / huh?"
+			},
+			{
+			  "japanese": "どうぞ",
+			  "burmese": "ယူပါ / လုပ်ပါ",
+			  "english": "please (offering)"
+			},
+			{
+			  "japanese": "どうも",
+			  "burmese": "ကျေးဇူးပါ",
+			  "english": "thanks"
+			},
+			{
+			  "japanese": "どうもありがとうございます",
+			  "burmese": "ကျေးဇူးတင်ပါတယ်",
+			  "english": "thank you very much"
+			},
+			{
+			  "japanese": "そうですか",
+			  "burmese": "ဟုတ်လား",
+			  "english": "I see"
+			},
+			{
+			  "japanese": "違います",
+			  "burmese": "မဟုတ်ပါဘူး",
+			  "english": "No / That's wrong"
+			},
+			{
+			  "japanese": "あ",
+			  "burmese": "ဟာ",
+			  "english": "oh!"
+			},
+			{
+			  "japanese": "これからお世話になります",
+			  "burmese": "နောက်မှ ကူညီပေးပါ",
+			  "english": "I look forward to your help"
+			},
+			{
+			  "japanese": "こちらこそよろしくお願いします",
+			  "burmese": "ကျွန်တော်လည်း ဝမ်းသာပါတယ်",
+			  "english": "Nice to meet you too"
+			},
+			{
+			  "japanese": "日本語",
+			  "burmese": "ဂျပန်စာ",
+			  "english": "Japanese language"
+			},
+			{
+			  "japanese": "～語",
+			  "burmese": "--ဘာသာစကား",
+			  "english": "language"
+			},
+			{
+			  "japanese": "何",
+			  "burmese": "ဘာ",
+			  "english": "what"
+			},
+			{
+			  "japanese": "そう",
+			  "burmese": "ဒီလို",
+			  "english": "so / like that"
+			}
+		  ]
+		}
+	},
+	{
+		{
+		  "lesson": 3,
+		  "title": "Minna no Nihongo - Lesson 3 Vocabulary",
+		  "vocabulary": [
+			{
+			  "japanese": "ここ",
+			  "burmese": "ဒီမှာ",
+			  "english": "here"
+			},
+			{
+			  "japanese": "そこ",
+			  "burmese": "ဟိုမှာ",
+			  "english": "there (near listener)"
+			},
+			{
+			  "japanese": "あそこ",
+			  "burmese": "ဟို့မှာ",
+			  "english": "over there"
+			},
+			{
+			  "japanese": "どこ",
+			  "burmese": "ဘယ်မှာ",
+			  "english": "where"
+			},
+			{
+			  "japanese": "こちら",
+			  "burmese": "ဒီဘက်",
+			  "english": "this way (polite)"
+			},
+			{
+			  "japanese": "そちら",
+			  "burmese": "ဟိုဘက်",
+			  "english": "that way (polite)"
+			},
+			{
+			  "japanese": "あちら",
+			  "burmese": "ဟို့ဘက်",
+			  "english": "that way over there (polite)"
+			},
+			{
+			  "japanese": "どちら",
+			  "burmese": "ဘယ်ဘက်",
+			  "english": "which way (polite)"
+			},
+			{
+			  "japanese": "教室",
+			  "burmese": "စာသင်ခန်း",
+			  "english": "classroom"
+			},
+			{
+			  "japanese": "食堂",
+			  "burmese": "ထမင်းဆိုင်",
+			  "english": "cafeteria"
+			},
+			{
+			  "japanese": "事務所",
+			  "burmese": "ရုံးခန်း",
+			  "english": "office"
+			},
+			{
+			  "japanese": "会議室",
+			  "burmese": "အစည်းအဝေးခန်း",
+			  "english": "meeting room"
+			},
+			{
+			  "japanese": "受付",
+			  "burmese": "လက်ခံကောင်တာ",
+			  "english": "reception"
+			},
+			{
+			  "japanese": "ロビー",
+			  "burmese": "ဧည့်ခန်း",
+			  "english": "lobby"
+			},
+			{
+			  "japanese": "部屋",
+			  "burmese": "အခန်း",
+			  "english": "room"
+			},
+			{
+			  "japanese": "トイレ",
+			  "burmese": "အိမ်သာ",
+			  "english": "toilet"
+			},
+			{
+			  "japanese": "階段",
+			  "burmese": "လှေကား",
+			  "english": "stairs"
+			},
+			{
+			  "japanese": "エレベーター",
+			  "burmese": "ဓာတ်လှေကား",
+			  "english": "elevator"
+			},
+			{
+			  "japanese": "エスカレーター",
+			  "burmese": "စက်လှေကား",
+			  "english": "escalator"
+			},
+			{
+			  "japanese": "自動販売機",
+			  "burmese": "အလိုအလျောက် ရောင်းစက်",
+			  "english": "vending machine"
+			},
+			{
+			  "japanese": "電話",
+			  "burmese": "တယ်လီဖုန်း",
+			  "english": "telephone"
+			},
+			{
+			  "japanese": "会社",
+			  "burmese": "ကုမ္ပဏီ",
+			  "english": "company"
+			},
+			{
+			  "japanese": "うち",
+			  "burmese": "အိမ်",
+			  "english": "home"
+			},
+			{
+			  "japanese": "靴",
+			  "burmese": "ဖိနပ်",
+			  "english": "shoes"
+			},
+			{
+			  "japanese": "ネクタイ",
+			  "burmese": "လည်စည်း",
+			  "english": "necktie"
+			},
+			{
+			  "japanese": "売り場",
+			  "burmese": "အရောင်းနေရာ",
+			  "english": "sales floor"
+			},
+			{
+			  "japanese": "地下",
+			  "burmese": "မြေအောက်",
+			  "english": "basement / underground"
+			},
+			{
+			  "japanese": "すみません",
+			  "burmese": "တောင်းပန်ပါတယ်",
+			  "english": "excuse me / sorry"
+			},
+			{
+			  "japanese": "いらっしゃいませ",
+			  "burmese": "ကြိုဆိုပါတယ်",
+			  "english": "welcome (to shop)"
+			},
+			{
+			  "japanese": "見せてください",
+			  "burmese": "ပြပါ",
+			  "english": "please show me"
+			},
+			{
+			  "japanese": "ください",
+			  "burmese": "ပေးပါ",
+			  "english": "please give me"
+			},
+			{
+			  "japanese": "何階",
+			  "burmese": "ဘယ်နှစ်ထပ်",
+			  "english": "which floor"
+			},
+			{
+			  "japanese": "いくら",
+			  "burmese": "ဘယ်လောက်",
+			  "english": "how much"
+			},
+			{
+			  "japanese": "百",
+			  "burmese": "တစ်ရာ",
+			  "english": "hundred"
+			},
+			{
+			  "japanese": "千",
+			  "burmese": "တစ်ထောင်",
+			  "english": "thousand"
+			},
+			{
+			  "japanese": "万",
+			  "burmese": "တစ်သောင်း",
+			  "english": "ten thousand"
+			}
+		  ]
+		}
+	},
+	{
+		{
+		  "lesson": 4,
+		  "title": "Minna no Nihongo - Lesson 4 Vocabulary",
+		  "vocabulary": [
+			{
+			  "japanese": "起きます",
+			  "burmese": "နိုးတယ် / ထတယ်",
+			  "english": "wake up"
+			},
+			{
+			  "japanese": "寝ます",
+			  "burmese": "အိပ်တယ်",
+			  "english": "sleep"
+			},
+			{
+			  "japanese": "働きます",
+			  "burmese": "အလုပ်လုပ်တယ်",
+			  "english": "work"
+			},
+			{
+			  "japanese": "休みます",
+			  "burmese": "အနားယူတယ်",
+			  "english": "rest / take a break"
+			},
+			{
+			  "japanese": "勉強します",
+			  "burmese": "စာလေ့လာတယ်",
+			  "english": "study"
+			},
+			{
+			  "japanese": "終わります",
+			  "burmese": "ပြီးဆုံးတယ်",
+			  "english": "finish"
+			},
+			{
+			  "japanese": "デパート",
+			  "burmese": "ကုန်တိုက်",
+			  "english": "department store"
+			},
+			{
+			  "japanese": "銀行",
+			  "burmese": "ဘဏ်",
+			  "english": "bank"
+			},
+			{
+			  "japanese": "郵便局",
+			  "burmese": "စာတိုက်",
+			  "english": "post office"
+			},
+			{
+			  "japanese": "図書館",
+			  "burmese": "စာကြည့်တိုက်",
+			  "english": "library"
+			},
+			{
+			  "japanese": "美術館",
+			  "burmese": "အနုပညာပြတိုက်",
+			  "english": "art museum"
+			},
+			{
+			  "japanese": "今",
+			  "burmese": "အခု",
+			  "english": "now"
+			},
+			{
+			  "japanese": "～時",
+			  "burmese": "--နာရီ",
+			  "english": "hour / o'clock"
+			},
+			{
+			  "japanese": "～分",
+			  "burmese": "--မိနစ်",
+			  "english": "minute"
+			},
+			{
+			  "japanese": "半",
+			  "burmese": "တစ်ဝက်",
+			  "english": "half"
+			},
+			{
+			  "japanese": "何時",
+			  "burmese": "ဘယ်နှစ်နာရီ",
+			  "english": "what time"
+			},
+			{
+			  "japanese": "何分",
+			  "burmese": "ဘယ်နှစ်မိနစ်",
+			  "english": "what minute"
+			},
+			{
+			  "japanese": "午前",
+			  "burmese": "မနက် (AM)",
+			  "english": "morning / AM"
+			},
+			{
+			  "japanese": "午後",
+			  "burmese": "နေ့လယ် / ညနေ (PM)",
+			  "english": "afternoon / PM"
+			},
+			{
+			  "japanese": "朝",
+			  "burmese": "မနက်",
+			  "english": "morning"
+			},
+			{
+			  "japanese": "昼",
+			  "burmese": "နေ့လယ်",
+			  "english": "daytime / noon"
+			},
+			{
+			  "japanese": "晩 / 夜",
+			  "burmese": "ည",
+			  "english": "night"
+			},
+			{
+			  "japanese": "きのう",
+			  "burmese": "မနေ့က",
+			  "english": "yesterday"
+			},
+			{
+			  "japanese": "今日",
+			  "burmese": "ဒီနေ့",
+			  "english": "today"
+			},
+			{
+			  "japanese": "明日",
+			  "burmese": "မနက်ဖြန်",
+			  "english": "tomorrow"
+			},
+			{
+			  "japanese": "今朝",
+			  "burmese": "ဒီမနက်",
+			  "english": "this morning"
+			},
+			{
+			  "japanese": "今晩",
+			  "burmese": "ဒီည",
+			  "english": "tonight"
+			},
+			{
+			  "japanese": "休み",
+			  "burmese": "နားရက်",
+			  "english": "holiday / day off"
+			},
+			{
+			  "japanese": "昼休み",
+			  "burmese": "နေ့လယ်နားချိန်",
+			  "english": "lunch break"
+			},
+			{
+			  "japanese": "毎日",
+			  "burmese": "နေ့တိုင်း",
+			  "english": "every day"
+			},
+			{
+			  "japanese": "月曜日",
+			  "burmese": "တနင်္လာနေ့",
+			  "english": "Monday"
+			},
+			{
+			  "japanese": "火曜日",
+			  "burmese": "အင်္ဂါနေ့",
+			  "english": "Tuesday"
+			},
+			{
+			  "japanese": "水曜日",
+			  "burmese": "ဗုဒ္ဓဟူးနေ့",
+			  "english": "Wednesday"
+			},
+			{
+			  "japanese": "木曜日",
+			  "burmese": "ကြာသပတေးနေ့",
+			  "english": "Thursday"
+			},
+			{
+			  "japanese": "金曜日",
+			  "burmese": "သောကြာနေ့",
+			  "english": "Friday"
+			},
+			{
+			  "japanese": "土曜日",
+			  "burmese": "စနေနေ့",
+			  "english": "Saturday"
+			},
+			{
+			  "japanese": "日曜日",
+			  "burmese": "တနင်္ဂနွေနေ့",
+			  "english": "Sunday"
+			},
+			{
+			  "japanese": "何曜日",
+			  "burmese": "ဘာနေ့",
+			  "english": "what day"
+			},
+			{
+			  "japanese": "～から",
+			  "burmese": "--မှ",
+			  "english": "from"
+			},
+			{
+			  "japanese": "～まで",
+			  "burmese": "--အထိ",
+			  "english": "until"
+			},
+			{
+			  "japanese": "番号",
+			  "burmese": "နံပါတ်",
+			  "english": "number"
+			},
+			{
+			  "japanese": "何番",
+			  "burmese": "ဘာနံပါတ်",
+			  "english": "what number"
+			}
+		  ]
+		}
+	}
+}
